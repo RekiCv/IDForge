@@ -26,7 +26,6 @@ IDForge does not create real identities or provide access to anyone's personal i
 ## Requirements
 
 - An operating system supported by the application.
-- An internet connection if the selected AI provider requires online access.
 
 ## Installation
 
